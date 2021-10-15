@@ -8,6 +8,7 @@ namespace CS22_B
 {
     public class BPub
     {
+        private int _a = 0;
         public void GetPublic()
         {
 
