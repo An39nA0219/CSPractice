@@ -15,6 +15,10 @@ namespace CS26
         public Form1()
         {
             InitializeComponent();
+
+            var counter = new Counter();
+            //counter._count = 10000;
+            counter.Call();
         }
     }
 }
